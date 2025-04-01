@@ -56,6 +56,10 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 **Expertise:**  
 Software Development · Data Analysis · Metaheuristics · Machine Learning · Algorithm Design - Git
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=dark)](https://github.com/JoaoHMiranda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHMiranda&layout=compact&theme=dark)](https://github.com/JoaoHMiranda)
+
+
 ---
 
 ## 🎯 Goals
