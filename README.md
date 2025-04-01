@@ -18,6 +18,12 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 
 ---
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=tokyonight)](https://github.com/JoaoHMiranda)
+
+---
+
 ## 🎓 Education
 
 - **Bachelor's in Computer Science**  
@@ -52,7 +58,6 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=tokyonight)](https://github.com/JoaoHMiranda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHMiranda&layout=compact&theme=tokyonight)](https://github.com/JoaoHMiranda)
 
 **Expertise:**  
