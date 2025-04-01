@@ -1,7 +1,7 @@
 # Hi, I'm João Henrique Silva de Miranda! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Henrique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-henrique-silva-de-miranda)
-[![Email](https://img.shields.io/badge/Email-joaohsm13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaohsm13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-joaohsm13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](joaohsm13@gmail.com)
 
 ---
 
