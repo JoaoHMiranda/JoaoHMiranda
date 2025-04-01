@@ -54,7 +54,7 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 
 
 **Expertise:**  
-Software Development · Data Analysis · AI · Machine Learning · Algorithm Design - Git
+Software Development · Data Analysis · Metaheuristics · Machine Learning · Algorithm Design - Git
 
 ---
 
