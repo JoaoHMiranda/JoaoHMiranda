@@ -18,12 +18,6 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=tokyonight)](https://github.com/JoaoHMiranda)
-
----
-
 ## 🎓 Education
 
 - **Bachelor's in Computer Science**  
@@ -67,6 +61,12 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-34A853?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-DB4437?style=for-the-badge&logo=AlgoExpert&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=tokyonight)](https://github.com/JoaoHMiranda)
 
 ---
 
