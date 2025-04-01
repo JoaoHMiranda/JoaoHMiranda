@@ -60,4 +60,4 @@ Software Development · Data Analysis · AI · Machine Learning · Algorithm Des
 
 ## 🎯 Goals
 
-To leverage my analytical mindset and passion for technology, creating innovative solutions that positively impact society.
+My mission is to apply my analytical skills and enthusiasm for technology to create innovative, efficient, and impactful solutions that drive positive change in society.
