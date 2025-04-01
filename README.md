@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at PUC-GO passionate about technology, innovation, and solving real-world problems through software and AI.
+I am a Computer Science student at PUC-GO, interested in software development, data analysis, algorithm design, and artificial intelligence. My academic and research experience includes work in metaheuristics, machine learning, and statistical modeling, often applied to real-world problems.
 
-Currently, I'm a CNPq research fellow focusing on financial market prediction using computational and machine learning techniques. I also collaborate on climate change modeling and environmental data analysis projects.
+Currently, I am a CNPq research fellow working on projects related to financial market analysis and prediction, using computational and machine-learning techniques to explore data patterns. I also contribute to climate change modeling initiatives through the Institutional Research Support Program at PUC-GO, applying AI and data science methods to environmental datasets.
 
-My competitive programming experience has sharpened my algorithmic thinking and problem-solving skills, while my role as a teaching assistant has enhanced my ability to communicate complex ideas clearly.
+I've been involved in competitive programming, which has given me practical experience with algorithms and problem-solving. As a teaching assistant in Algorithms, I've supported peers in understanding technical concepts and developing their programming skills.
 
-As a scout, I've developed leadership, resilience, teamwork, and adaptability, learning to overcome challenges, collaborate effectively in diverse teams, and embrace continuous personal growth.
+Outside of academia, my background as a scout has shaped how I approach teamwork, leadership, and adaptability—qualities I bring into both technical and collaborative settings.
 
 ---
 
@@ -60,4 +60,4 @@ Software Development · Data Analysis · AI · Machine Learning · Algorithm Des
 
 ## 🎯 Goals
 
-My mission is to apply my analytical skills and enthusiasm for technology to create innovative, efficient, and impactful solutions that drive positive change in society.
+I aim to apply my analytical skills and enthusiasm for technology to create innovative, efficient, and impactful solutions that drive positive societal change.
