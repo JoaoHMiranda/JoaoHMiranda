@@ -52,13 +52,16 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-**Expertise:**  
-Software Development · Data Analysis · Metaheuristics · Machine Learning · Algorithm Design - Git
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=tokyonight)](https://github.com/JoaoHMiranda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHMiranda&layout=compact&theme=tokyonight)](https://github.com/JoaoHMiranda)
 
+**Expertise:**  
+![Software Development](https://img.shields.io/badge/Software%20Development-1A73E8?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7931E?style=for-the-badge&logo=Python&logoColor=white)
+![Metaheuristics](https://img.shields.io/badge/Metaheuristics-4285F4?style=for-the-badge&logo=Algorithm&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-34A853?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-DB4437?style=for-the-badge&logo=AlgoExpert&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
