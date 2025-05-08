@@ -20,7 +20,7 @@ Outside of academia, my background as a scout has shaped how I approach teamwork
 ## 🎓 Education
 
 - **Bachelor's in Computer Science**  
-  *Pontifícia Universidade Católica de Goiás (PUC-GO)*
+  *Pontifícia Universidade Católica de Goiás (PUC-GO)  (2022 – 2026)*
 
 ---
 
