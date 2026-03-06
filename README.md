@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a 22-year-old Computer Science student from Goiânia, Brazil. I study at PUC-GO, specializing in AI and Software Engineering. I have solid experience in Machine Learning , Computer Vision , and MLOps within Cloud environments . 
+I'm a 22 year old Computer Science student from Goiânia, Brazil. I study at PUC-GO, specializing in AI and Software Engineering. I have solid experience in Machine Learning , Computer Vision , and MLOps within Cloud environments . 
 
 Currently, I'm an AI Intern and Fullstack Developer. I also have a strong background in Scientific Research (PIBITI/CNPq) and competitive programming (ICPC). Beyond code, I've been a Scout member for over 10 years and currently serve as a Scout Leader, where I mentor youth, manage teams, and drive social impact projects.
 
