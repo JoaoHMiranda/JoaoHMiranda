@@ -7,62 +7,66 @@
 
 ## 🚀 About Me
 
-Computer Science student (PUC-GO) specializing in AI and Software Engineering. Experienced in Machine Learning (Time Series), Computer Vision (YOLO), and MLOps within Cloud environments (GCP). Currently an AI Intern and Fullstack Developer (TypeScript/Tailwind), with a background in Scientific Research (PIBITI/CNPq) and competitive programming (ICPC). Scout member for over 10 years, possessing strong leadership and team management skills.
+[cite_start]I'm a 22-year-old Computer Science student from Goiânia, Brazil[cite: 2]. [cite_start]I study at PUC-GO with an expected graduation in June 2026 [cite: 9][cite_start], specializing in AI and Software Engineering[cite: 4]. [cite_start]I have solid experience in Machine Learning (Time Series), Computer Vision (YOLO), and MLOps within Cloud environments (GCP)[cite: 5]. 
+
+[cite_start]Currently, I'm an AI Intern and Fullstack Developer[cite: 6]. [cite_start]I also have a strong background in Scientific Research (PIBITI/CNPq) [cite: 6] [cite_start]and competitive programming (ICPC)[cite: 6]. [cite_start]Beyond code, I've been a Scout member for over 10 years [cite: 7] [cite_start]and currently serve as a Scout Leader [cite: 38][cite_start], where I mentor youth, manage teams, and drive social impact projects[cite: 38].
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor's in Computer Science**  
-  *Pontifícia Universidade Católica de Goiás (PUC-GO)  (2022 – 2026)*
+- **B.S. in Computer Science** *PUC-Goiás | [cite_start]Expected Graduation: June 2026* [cite: 9]
 
 ---
 
-## 💻 Experience & Projects
+## 💼 Professional Experience
 
-- **Financial Market Analysis and Prediction Research**  
-  *Using machine learning for market trend analysis.*
+- **AI & Software Development Intern** @ *Global TI+RH Solutions (Sep/2025 - Present)* [cite: 11, 12]  
+  [cite_start]Developing fullstack applications with TypeScript, React, and Tailwind CSS[cite: 14]. [cite_start]Implementing AI solutions and ETL pipelines using GCP (Cloud Functions, BigQuery) [cite: 15, 18][cite_start], and utilizing Git for CI/CD workflows[cite: 19].
+  
+- **Undergraduate Research Fellow (PIBITI/CNPq)** @ *PUC-Goiás (Aug/2024 - Aug/2025)* [cite: 20, 21]  
+  Developed LSTM and SVR predictive models for financial markets[cite: 23]. Applied meta-heuristics and Bayesian Optimization for hyperparameter tuning [cite: 25] and published a scientific paper at XXXII SIMPEP[cite: 26].
 
-- **Climate Change Modeling & Environmental Data Analysis**  
-  *Applying AI methods to environmental data.*
+- **Teaching Assistant (Algorithms and Data Structures)** @ *PUC-Goiás (2023 - 2025)* [cite: 27, 28]  
+  Provided technical guidance in C++ and developed course materials[cite: 29].
 
-- **Teaching Assistant in Algorithms**  
-  *Facilitating technical education and collaboration.*
+---
 
-- **Competitive Programming**  
-  *Advanced problem-solving under pressure.*
+## 💻 Key Projects
+
+- **Hyperspectral Staphylococcus spp. [cite_start]Detection:** Thesis project utilizing YOLO and advanced spectral pre-processing[cite: 31].
+- [cite_start]**Stock Analysis Platform:** Streamlit dashboard focused on technical analysis and B3 asset prediction (MLOps)[cite: 32].
+- [cite_start]**Educational Compiler:** Developed lexical, syntactic, and semantic analysis for a Python-inspired language[cite: 33].
+
+---
+
+## 🏆 Honors & Extracurriculars
+
+- [cite_start]**ICPC Programming Marathon:** 5th place regionally (GO) and 107th nationally[cite: 35].
+- [cite_start]**Hackathons:** 2 podium finishes (2nd and 3rd place) in agile development[cite: 36].
+- [cite_start]**Environmental Volunteering:** Active in reforestation projects with "Plantadores de Nascentes" NGO[cite: 39].
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages & Web:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHMiranda&layout=compact&theme=tokyonight)](https://github.com/JoaoHMiranda)
+**Data, AI & Cloud:** ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-**Expertise:**  
-![Software Development](https://img.shields.io/badge/Software%20Development-1A73E8?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7931E?style=for-the-badge&logo=Python&logoColor=white)
-![Metaheuristics](https://img.shields.io/badge/Metaheuristics-4285F4?style=for-the-badge&logo=Algorithm&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-34A853?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-DB4437?style=for-the-badge&logo=AlgoExpert&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[cite_start]**Tools:** Git, GitHub, Streamlit, Jupyter, Linux/WSL[cite: 44].
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHMiranda&show_icons=true&theme=tokyonight)](https://github.com/JoaoHMiranda)
-
----
-
-## 🎯 Goals
-
-I aim to apply my analytical skills and enthusiasm for technology to create innovative, efficient, and impactful solutions that drive positive societal change.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHMiranda&layout=compact&theme=tokyonight)](https://github.com/JoaoHMiranda)
