@@ -7,13 +7,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science student at PUC-GO, interested in software development, data analysis, algorithm design, and artificial intelligence. My academic and research experience includes work in metaheuristics, machine learning, and statistical modeling, often applied to real-world problems.
-
-Currently, I am a CNPq research fellow working on projects related to financial market analysis and prediction, using computational and machine-learning techniques to explore data patterns. I also contribute to climate change modeling initiatives through the Institutional Research Support Program at PUC-GO, applying AI and data science methods to environmental datasets.
-
-I've been involved in competitive programming, which has given me practical experience with algorithms and problem-solving. As a teaching assistant in Algorithms, I've supported peers in understanding technical concepts and developing their programming skills.
-
-Outside of academia, my background as a scout has shaped how I approach teamwork, leadership, and adaptability—qualities I bring into both technical and collaborative settings.
+Computer Science student (PUC-GO) specializing in AI and Software Engineering. Experienced in Machine Learning (Time Series), Computer Vision (YOLO), and MLOps within Cloud environments (GCP). Currently an AI Intern and Fullstack Developer (TypeScript/Tailwind), with a background in Scientific Research (PIBITI/CNPq) and competitive programming (ICPC). Scout member for over 10 years, possessing strong leadership and team management skills.
 
 ---
 
