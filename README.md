@@ -7,9 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a 22 year old Computer Science student from Goiânia, Brazil. I study at PUC-GO, specializing in AI and Software Engineering. I have solid experience in Machine Learning , Computer Vision , and MLOps within Cloud environments . 
-
-Currently, I'm an AI Intern and Fullstack Developer. I also have a strong background in Scientific Research (PIBITI/CNPq) and competitive programming (ICPC). Beyond code, I've been a Scout member for over 10 years and currently serve as a Scout Leader, where I mentor youth, manage teams, and drive social impact projects.
+Software Engineer with a strong foundation in algorithms and data structures, honed through participation in the Programming Marathon (ICPC). As a Technological Development and Innovation Fellow (PIBITI/CNPq), I designed AI models (LSTM and SVR) for financial market asset prediction using technical analysis and data engineering. I have extensive experience developing APIs and building robust systems using C#, Python, C/C++, and SQL, with specific expertise in Cloud AI implementation and complex workflow automation via n8n. On the frontend, I focus on creating scalable interfaces with React and TypeScript. I utilize tools like Docker and GitHub to ensure efficient containerization, deployment, and technical collaboration flows. My professional background is complemented by over 10 years of experience in Scouting, where I consolidated essential leadership and teamwork skills.
 
 ---
 
